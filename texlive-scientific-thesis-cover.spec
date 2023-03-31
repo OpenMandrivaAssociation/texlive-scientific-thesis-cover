@@ -1,6 +1,6 @@
 Name:		texlive-scientific-thesis-cover
 Version:	47923
-Release:	1
+Release:	2
 Summary:	Provides cover page and affirmation at the end of a thesis
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scientific-thesis-cover
