@@ -3,7 +3,7 @@ Version:	47923
 Release:	2
 Summary:	Provides cover page and affirmation at the end of a thesis
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scientific-thesis-cover
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scientific-thesis-cover
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scientific-thesis-cover.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scientific-thesis-cover.doc.r%{version}.tar.xz
